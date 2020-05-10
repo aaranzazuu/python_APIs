@@ -1,3 +1,4 @@
 api_key.py
-DS_Store
-_pycache_
+.DS_Store
+__pycache__
+.ipynb_checkpoints
